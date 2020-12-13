@@ -1,13 +1,12 @@
 import os
 
 import pandas as pd
+import xlsxwriter
 from mpmath import *
 from numpy.random import default_rng
 from sklearn import metrics
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import MinMaxScaler
-import xlsxwriter
-import pandas as pd
 
 
 # creating the DataFrame

@@ -1,5 +1,4 @@
 from utils import *
-from pathlib import Path
 
 print("========= Stimulates Start =========")
 print("Algorithms use: ")
