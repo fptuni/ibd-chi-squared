@@ -12,6 +12,6 @@ To run on your local machine, please download the project then navigate to the p
 python main.py
 ```
 ## Contact for questioning
-Email:  trongttce130169@gmail.com
-Phone:  +84706641166
-Discord: https://discord.gg/Sd4QjMxg8v
+- Email:  trongttce130169@gmail.com
+- Phone:  +84706641166
+- Discord: https://discord.gg/Sd4QjMxg8v
