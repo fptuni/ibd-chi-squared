@@ -14,4 +14,3 @@ python main.py
 ## Contact for questioning
 - Email:  trongttce130169@gmail.com
 - Phone:  +84706641166
-- Discord: https://discord.gg/Sd4QjMxg8v
