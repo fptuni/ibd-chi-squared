@@ -1,89 +1,87 @@
-![Run Tests](https://github.com/tranthanhtrong/python/workflows/Run%20Tests/badge.svg)
-![Discord Webhooks](https://github.com/tranthanhtrong/python/workflows/Discord%20Webhooks/badge.svg)
-<br />
-<p align="center">
-  <a href="https://github.com/tranthanhtrong/python">
-    <img src="https://i.ibb.co/3dnVtB5/App-Logo-Inspiraton-156.png" alt="Logo" width="80" height="80">
-  </a>
+# Project Title
 
-  <h3 align="center">Project A</h3>
+One Paragraph of project description goes here
 
-  <p align="center">
-    Feature Selection using Correlation Matrix on Metagenomic Data with Pearson Improving Colorectal Cancer Prediction
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-* [Deadline](#deadline)
-* [Contributing](#contributing)
-* [License](#license)
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-### Built With
-This section should list any major library and language:
-* [Python](https://www.python.org/)
-
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
-### Executation
-Run the following command to test all 8 sets of algorithms.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
 ```
-python main.py
+Give examples
 ```
-### Current Code Base
- - all the datasets in *.csv
- - 8 file pythons for seperate testing: ```auto_report_a*.py```
- - 1 file python ```a_utils.py``` for contains utilities
- - 8 file pythons for functioning:
 
-```A1./ 70:30 Chéo, RandomForestClassifier to Predict:```
-Chạy 3 lần qua 3 phương pháp chọn độ tương quan. Sau đó đem chia 3/7. Dùng RandomForestClassifier to Predict.
+### Installing
 
-```A2./ Như A1, mà tự test trên của nó.```
+A step by step series of examples that tell you how to get a development env running
 
-```A3./ KFold, Kiểm tra Chéo, RandomForestClassifier to Predict.```
-Chạy 3 lần qua 3 phương pháp chọn độ tương quan. Sau đó KFOLD và Dùng RandomForestClassifier to Predict.
+Say what the step will be
 
-```A4./ Như A3, mà tự test trên của nó.```
+```
+Give the example
+```
 
-```A5./ KFold, kiểm chéo, SVM to Predict```
-Chạy 3 lần qua 3 phương pháp chọn độ tương quan. Sau đó KFOLD và Dùng SVM to Predict.
+And repeat
 
-```A6./ Như A5, mà tự test trên của nó.```
+```
+until finished
+```
 
-```A7./ 70:30 Chéo, SVM to Predict:```
-Chạy 3 lần qua 3 phương pháp chọn độ tương quan. Sau đó đem chia 3/7. Dùng SVM to Predict.
+End with an example of getting some data out of the system or using it for a little demo
 
-```A8./ Như A7, mà tự test trên của nó.```
+## Running the tests
 
-<!-- ROADMAP -->
-## Deadline
-The project should complete before 05/05/2020
+Explain how to run the automated tests for this system
 
+### Break down into end to end tests
 
+Explain what these tests test and why
 
-<!-- CONTRIBUTING -->
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
 ## Contributing
 
-Any contributions you make are **greatly appreciated**.
-1. Fork the Project
-2. Push to the Branch (`git push origin master`)
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-<!-- LICENSE -->
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
